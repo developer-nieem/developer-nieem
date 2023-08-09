@@ -1,4 +1,6 @@
-![Web Developer  & WordPress Expert]([https://i.ibb.co/HKqQmCj/Linkedin-cover.png])
+<div align="center">
+  <img height="200" src="https://i.ibb.co/HKqQmCj/Linkedin-cover.png"  />
+</div>
 ### Hi there 👋, I'm Nieem Hossen
 #### MERN Stack Developer  & WordPress Expert
 I am a dedicated and skilled web developer with expertise in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React JS, Next.js, Express JS, MongoDB and WordPress, Shopify. With a strong focus on web development, I offer a range of services to help businesses create and enhance their online presence.
