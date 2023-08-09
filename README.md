@@ -1,14 +1,14 @@
-![Web Developer  & WordPress Expert](https://media.licdn.com/dms/image/D5616AQHEHlNMyeRbCA/profile-displaybackgroundimage-shrink_350_1400/0/1685526677859?e=1692230400&v=beta&t=0ih02FaDRPYZ_2CasV6D1o2RdRaJVlG3AokDLFWw5zw)
+![Web Developer  & WordPress Expert]([https://media.licdn.com/dms/image/D5616AQHEHlNMyeRbCA/profile-displaybackgroundimage-shrink_350_1400/0/1685526677859?e=1692230400&v=beta&t=0ih02FaDRPYZ_2CasV6D1o2RdRaJVlG3AokDLFWw5zw](https://i.ibb.co/HKqQmCj/Linkedin-cover.png))
 ### Hi there 👋, I'm Nieem Hossen
-#### Web Developer  & WordPress Expert
-I am a dedicated and skilled web developer with expertise in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React JS, Express JS, MongoDB and WordPress,. With a strong focus on web development, I offer a range of services to help businesses create and enhance their online presence.
+#### MERN Stack Developer  & WordPress Expert
+I am a dedicated and skilled web developer with expertise in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React JS, Next.js, Express JS, MongoDB and WordPress, Shopify. With a strong focus on web development, I offer a range of services to help businesses create and enhance their online presence.
 Specializing in Front-end web developer, I can build custom websites, design responsive layouts, and convert PSD or Sketch files into functional React Js or WordPress websites. I also have experience in front-end web design using frameworks like Bootstrap and Tailwind CSS. Library React JS , ensuring visually appealing and user-friendly interfaces.
 
 My proficiency extends to CMS platforms like WordPress, Shopify and Wix, where I can assist in creating and customizing eCommerce stores to meet your specific requirements.
 
 
 🈴🈴Front-End web Development -related services :
-✔ Build Full website with react JS, Express JS
+✔ Build Full website with react JS, Next.js, Express JS
 ✔ PSD to HTML5 
 ✔ sketch to HTML5 
 ✔ HTML template design
@@ -39,6 +39,7 @@ My proficiency extends to CMS platforms like WordPress, Shopify and Wix, where I
 ✔tailwind CSS
 ✔JavaScript
 ✔React JS
+✔Next.js
 ✔Express JS
 ✔MongoDB
 
@@ -53,13 +54,13 @@ Thank you so much for reviewing my profile.
 
 Contact Me 
 ---------------------
-☛ Agency: webprohelper.com
+☛ Agency: subtleit.com
 ☛ email: nieemhossen@gmail.com
 ☛ Phone: +8801744112183 (Whats app) 
 ☛ Facebook: https://web.facebook.com/m.nieemhossen/
 ☛ Facebook: https://web.facebook.com/developernieem/
 
-Skills: HTML | CSS | BOOTSTRAP | TAILWIND CSS | JavaScript | React JS | Firebase | Express JS | MongoDB
+Skills: HTML | CSS | BOOTSTRAP | TAILWIND CSS | JavaScript | React JS | Next.js | Firebase | Express JS | MongoDB
 
 
 
