@@ -7,6 +7,7 @@ Specializing in Front-end web developer, I can build custom websites, design res
 My proficiency extends to CMS platforms like WordPress, Shopify and Wix, where I can assist in creating and customizing eCommerce stores to meet your specific requirements.
 
 🚹🚹 My coding skills :
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
@@ -22,6 +23,7 @@ My proficiency extends to CMS platforms like WordPress, Shopify and Wix, where I
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 🚹🚹 CMS EXPERT :
+
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
@@ -59,9 +61,10 @@ Thank you so much for reviewing my profile.
 
 ### Contact Me 
 ---------------------
--☛ Agency: subtleit.com
--☛ email: nieemhossen@gmail.com
--☛ Phone: +8801744112183 (WhatsApp) 
+
+- ☛ Agency: subtleit.com
+- ☛ email: nieemhossen@gmail.com
+- ☛ Phone: +8801744112183 (WhatsApp) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0074E4?style=flat-square&logoColor=white)](https://nieemhossen.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nieemhossen/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/dev.nieemhossen/)
