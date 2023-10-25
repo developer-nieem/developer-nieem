@@ -64,7 +64,8 @@ Thank you so much for reviewing my profile.
 
 - ☛ Agency: subtleit.com
 - ☛ email: nieemhossen@gmail.com
-- ☛ Phone: +8801744112183 (WhatsApp) 
+- ☛ Phone: +8801744112183 (WhatsApp)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-0074E4?style=flat-square&logoColor=white)](https://nieemhossen.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nieemhossen/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/dev.nieemhossen/)
